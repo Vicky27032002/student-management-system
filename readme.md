@@ -82,6 +82,16 @@ python manage.py runserver
 
 ![Delete Student](screenshots/delete-student.png)
 
+## Dashboard & Login Page
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Login Page
+
+![Login](screenshots/login.png)
+
 ## Author
 
 Vignesh R
