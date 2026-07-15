@@ -40,6 +40,8 @@ python manage.py runserver
 
 ## Screenshots
 
+## Department Module
+
 ### Department List
 
 ![Department List](screenshots/department-list.png)
@@ -61,6 +63,24 @@ python manage.py runserver
 ### Delete Department
 
 ![Delete Department](screenshots/delete-department.png)
+
+## Student Module
+
+### Student List
+
+![Student List](screenshots/student-list.png)
+
+### Add Student
+
+![Add Student](screenshots/add-student.png)
+
+### Edit Student
+
+![Edit Student](screenshots/edit-student.png)
+
+### Delete Student
+
+![Delete Student](screenshots/delete-student.png)
 
 ## Author
 
